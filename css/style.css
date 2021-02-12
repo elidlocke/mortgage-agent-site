@@ -71,7 +71,7 @@ a:active {
     background-color: #65666A;
     color: #fff;
 }
-ion-icon {
+.service-item ion-icon {
   color: #333;
   font-size: 100px;
 }
@@ -133,7 +133,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-bottom: 15px;
   margin-top: 0;
   text-transform: capitalize;
-  text-shadow: 0 0 15px rgba(0,0,0,0.5);
+  text-shadow: 1px 1px 5px rgba(0,0,0,1);
   line-height: 40px;
 }
 /*--
@@ -670,8 +670,11 @@ about
 	footer Start 
 --*/
 footer {
-  background: #fff;
+  background: #f7f8fA;
   text-align: center;
+  padding: 0px;
+}
+.footer-top {
   padding: 20px;
 }
 footer p {
@@ -682,33 +685,54 @@ footer p {
 footer a {
   color: #595959;
 }
-footer .footer-menu {
-  padding-bottom: 25px;
-}
-footer .footer-menu ul {
-  margin: 0px;
-  padding: 0px;
-}
-footer .footer-menu ul li {
-  display: inline-block;
-  padding: 0px 20px;
-}
-footer .footer-menu ul li a {
-  display: inline-block;
-  color: #65666A;
-}
-footer .footer-menu ul li a:hover {
-  color: #000;
-}
 .footer-logo-wrapper {
-  height: 50px;
+  width: 50%;
   display: flex;
   justify-content: left;
   align-items: left;
   overflow: hidden;
+  margin-bottom: 20px;
 }
-.footer-logo {
-  flex-shrink: 0;
-  min-width:auto;
-  min-height: 100%;
+img.footer-logo{
+  max-width: 80%;
+  padding: 15px 30px 15px 10px;
+}
+
+.tmg-footer-blurb {
+  text-align: left;
+  justify-content: left;
+}
+
+.copyright {
+  margin: 0;
+  width: 100%;
+  background: #333;
+  color: #fff;
+}
+div.copyright div.col-sm-12 {
+  padding: 10px;
+}
+
+.footer-top row{
+  display: flex;
+  flex-wrap: wrap;
+  vertical-align: bottom;
+}
+
+.footer-contact {
+  align-content: center;
+  padding-left: 25%;
+}
+
+.footer-contact div{
+  text-align: justify;
+  justify-content: right;
+}
+
+.footer-title {
+  padding-bottom:10px;
+}
+
+.bold{
+  font-weight: 800;
 }
