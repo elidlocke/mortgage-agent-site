@@ -147,7 +147,7 @@ about
   margin-top: 30px;
   max-width: 100%;
   height: 415px;
-  background-image: url(../img/ben_locke_floor_sanding.jpg);
+  background-image: url(../img/Kitchener-Waterloo-Mortgage-Agent-Elizabeth-Locke.png);
   background-size: cover;
   background-position: 50% 25%;
 }
@@ -676,6 +676,7 @@ footer {
 }
 .footer-top {
   padding: 20px;
+  margin: 20px;
 }
 footer p {
   font-size: 13px;
@@ -694,8 +695,8 @@ footer a {
   margin-bottom: 20px;
 }
 img.footer-logo{
-  max-width: 80%;
-  padding: 15px 30px 15px 10px;
+  max-width: 90%;
+  padding: 15px 30px 15px 0;
 }
 
 .tmg-footer-blurb {
@@ -719,17 +720,13 @@ div.copyright div.col-sm-12 {
   vertical-align: bottom;
 }
 
-.footer-contact {
-  align-content: center;
-  padding-left: 25%;
-}
-
 .footer-contact div{
   text-align: justify;
   justify-content: right;
 }
 
 .footer-title {
+  text-align: left;
   padding-bottom:10px;
 }
 

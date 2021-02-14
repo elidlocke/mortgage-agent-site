@@ -61,6 +61,9 @@ px      68    160    252    344    436    528    620    712    */
   footer .navbar-default .navbar-nav li a:hover {
     color: #000;
   }
+  .footer-contact div {
+    padding-left: 25%;
+  }
   /*---------------------------------------------
 					Index Close 
 -----------------------------------------------*/
@@ -382,6 +385,15 @@ px      68    160    252    */
 --*/
   footer .footer-menu {
     display: none;
+  }
+  .footer-logo-wrapper {
+    width: 100%;
+  }
+  .footer-contact {
+    padding-top: 30px;
+  }
+  .footer-contact div {
+    padding-left: 0;
   }
 }
 /*		Wide Mobile Layout: 480px.
