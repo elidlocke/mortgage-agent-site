@@ -11,6 +11,7 @@ One of the most common questions that homeowners want to know when securing a mo
 ## The Overnight Rate
 
 ![Bank of Canada Overnight Rate](../img/blog/overnight-rates-bank-of-canada.png)
+###### source: tradingeconomics.com, 02/01/2021
 
 The Bank of Canada sets a rate called the overnight rate. Several times each year, The Bank of Canada make adjustments to the overnight interest rate. This rate has varied greatly, from 21.75% in 1980 to 0.25% after the financial crisis in 2018. Now, with the covid-19 pandemic causing uncertainty for many homeowners, Canada's overnight rate is again at it's historical low of 0.25%. 
 
@@ -20,7 +21,7 @@ Great, so can I get a mortgage at 0.25%? No.
 ## Lender's Prime Rates
 
 ![Lender's Prime Rates](../img/blog/prime-rates-by-bank-2021.png)
-###### source: wowa.ca
+###### source: wowa.ca, 02/01/2021
 
 The overnight rate is the interest rate that commercial banks charge when lending to each other -- not the rate that you can get as a consumer. As an individual, the more relevant rate is the prime rate that individual lenders set. This rate is based on the prime rate and historically fluctuates 2-3% above the Bank of Canada's prime rate. For example, First National, TD & Scotiabank all currently advertise a prime rate of 2.45%. 
 
