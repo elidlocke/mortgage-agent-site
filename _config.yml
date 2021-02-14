@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Elizabeth Locke Mortgages
+title: Kitchener Waterloo Mortgage Agent - Elizabeth Locke
 email: elizabeth@lockemortgages.com
 description: >- # this means to ignore newlines until "baseurl:"
     Elizabeth Locke offers mortgage financing services for purchasing,
