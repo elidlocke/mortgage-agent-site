@@ -700,7 +700,7 @@ footer a {
 img.footer-logo{
   max-width: 90%;
   max-height: auto;
-  padding: 15px 30px 15px 0;
+  padding: 15px 0 10px 0;
 }
 
 .tmg-footer-blurb {
